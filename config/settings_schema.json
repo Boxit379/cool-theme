@@ -4,8 +4,8 @@
     "theme_name": "Earth",
     "theme_version": "1.0.0",
     "theme_author": "Ben",
-    "theme_documentation_url": "https://boxit379.github.io",
-    "theme_support_url": "https://boxit379.github.io"
+    "theme_documentation_url": "https:\/\/boxit379.github.io",
+    "theme_support_url": "https:\/\/boxit379.github.io"
   },
   {
     "name": "t:settings_schema.colors.name",
